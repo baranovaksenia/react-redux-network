@@ -1,0 +1,11 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  color: white;
+  font-size: 14px;
+}
+
+.dialogItems {
+  padding: 10px;
+  border-right: 1px solid green;
+}

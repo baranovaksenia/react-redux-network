@@ -1,0 +1,7 @@
+﻿.item {
+  margin-bottom: 5px;
+}
+
+.dialogItems .active {
+  color: green;
+}
